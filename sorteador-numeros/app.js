@@ -4,4 +4,5 @@ function sortear() {
     let numeroFim = document.getElementById('ate').value; 
     alert(`Quantidade de números: ${quantidade}`); 
     alert(`Do número: ${de}`); alert(`Até: ${ate}`); 
+    alert(`Do número: ${de}`); alert(`Até: ${ate}`); 
 }
